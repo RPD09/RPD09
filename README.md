@@ -25,10 +25,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=PerkZz17&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Snake animation](https://github.com/PerkZz17/PerkZz17/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-                                                 
-<div align="center">  
-  
-![main](https://user-images.githubusercontent.com/66210711/171189445-abbff24a-7014-4775-a4b5-2e8a2ea483cb.gif)![side](https://user-images.githubusercontent.com/66210711/171189467-f0ea94f1-b8f2-42d5-b496-b66ac1c50fb2.gif)
-  
-</div>
