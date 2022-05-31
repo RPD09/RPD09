@@ -27,6 +27,8 @@
 </div>
 
                                                  
-                                                 
+<div align="center">  
+  
 ![main](https://user-images.githubusercontent.com/66210711/171189445-abbff24a-7014-4775-a4b5-2e8a2ea483cb.gif)![side](https://user-images.githubusercontent.com/66210711/171189467-f0ea94f1-b8f2-42d5-b496-b66ac1c50fb2.gif)
-
+  
+</div>
