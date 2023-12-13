@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rafael Dias</h1>
 <h3 align="left">Developer from Portugal</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/PerkZz17/PerkZz17/assets/66210711/2d557484-362c-4db9-beb6-64da6f0af89e">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +22,4 @@
 <img align="center" alt="Arduino" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=perkzz17&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="perkzz" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=perkzz17&show_icons=true&locale=en&theme=tokyonight" alt="perkzz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=perkzz17&&theme=tokyonight" alt="perkzz" /></p>
