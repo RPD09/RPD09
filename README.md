@@ -1,4 +1,8 @@
-[![MasterHead](https://github.com/PerkZz17/PerkZz17/assets/66210711/71aad540-046e-4d65-a389-c30b2e3e3bf6)](https://github.com/PerkZz17)
+<p align="center">
+  <a href="https://github.com/PerkZz17">
+    <img src="https://github.com/PerkZz17/PerkZz17/assets/66210711/daace173-0c2a-4996-9afe-79540941f644" alt="DeadLineGif">
+  </a>
+</p>
 
 <h1 align="center">Hey there, I'm Rafael Dias, a developer from Portugal</h1>
 
