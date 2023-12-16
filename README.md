@@ -24,11 +24,9 @@ src="https://img.shields.io/github/followers/PerkZz17?logo=github&style=for-the-
 
 ### Socials
 
-<p align="left">
-  <a href="https://www.github.com/PerkZz17" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-PerkZz17-%23181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="http://www.instagram.com/rafaeldias_17" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Instagram-rafaeldias__17-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/in/rafael-dias-00a116224/?locale=en_US" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Rafael%20Dias-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-PerkZz17-%23181717?style=for-the-badge&logo=github)](https://www.github.com/PerkZz17)
+[![Instagram](https://img.shields.io/badge/Instagram-rafaeldias__17-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/rafaeldias_17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Dias-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafael-dias-00a116224/?locale=en_US)
 
 ### Badges
 
