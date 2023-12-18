@@ -7,8 +7,8 @@ IT Systems Management and Programming Technician
 Passionate programmer with a focus on Mobile Development. I enjoy solving problems, building cool stuff, and learning every day. Check out my projects below and let's connect!
 
 * 🌍  I'm based in Portugal
-* 🧠  I'm learning Flutter
-* 🤝  I'm open to collaborating on Flutter Projects
+* 🧠  I'm learning Programming in general
+* 🤝  I'm open to collaborating on Any Projects
 * ⚡  I'm passionate about fixing electronics
 
 <a href="https://www.github.com/PerkZz17" target="_blank" rel="noreferrer"><img
