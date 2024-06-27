@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT Systems Management and Programming Technician
 ------------------------------------------------
 
-Passionate programmer with a focus on Mobile Development. I enjoy solving problems, building cool stuff, and learning every day. Check out my projects below and let's connect!
+Passionate programmer with a focus on Software Development. I enjoy solving problems, building cool stuff, and learning every day. Check out my projects below and let's connect!
 
 * 🌍  I'm based in Portugal
 * 🧠  I'm learning/improving my C# programming
