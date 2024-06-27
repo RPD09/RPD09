@@ -25,7 +25,6 @@ src="https://img.shields.io/github/followers/PerkZz17?logo=github&style=for-the-
 ### Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-PerkZz17-%23181717?style=for-the-badge&logo=github)](https://www.github.com/PerkZz17)
-[![Instagram](https://img.shields.io/badge/Instagram-rafaeldias__17-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/rafaeldias_17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Dias-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafael-dias-00a116224/?locale=en_US)
 
 ### Badges
