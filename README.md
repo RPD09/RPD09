@@ -7,9 +7,8 @@ IT Systems Management and Programming Technician
 Passionate programmer with a focus on Software Development. I enjoy solving problems, building cool stuff, and learning every day. Check out my projects below and let's connect!
 
 * 🌍  I'm based in Portugal
-* 🧠  I'm learning/improving my C# programming
-* 🤝  I'm open to collaborating on Any Projects
-* ⚡  I'm passionate about Fixing electronics
+* 🧠  I'm learning/improving my programming in general
+* ⚡  I'm passionate about programming and games
 
 <a href="https://www.github.com/PerkZz17" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/PerkZz17?logo=github&style=for-the-badge&color=a855f7&labelColor=27272a" /></a>
