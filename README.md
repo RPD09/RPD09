@@ -10,8 +10,8 @@ Passionate programmer with a focus on Software Development. I enjoy solving prob
 * 🧠  I'm learning/improving my programming in general
 * ⚡  I'm passionate about programming and games
 
-<a href="https://www.github.com/RDias17" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/RDias17?logo=github&style=for-the-badge&color=a855f7&labelColor=27272a" /></a>
+<a href="https://www.github.com/RPD09" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/RPD09?logo=github&style=for-the-badge&color=a855f7&labelColor=27272a" /></a>
 
 ### Skills
 
@@ -23,13 +23,13 @@ src="https://img.shields.io/github/followers/RDias17?logo=github&style=for-the-b
 
 ### Socials
 
-[![GitHub](https://img.shields.io/badge/GitHub-RDias17-%23181717?style=for-the-badge&logo=github)](https://www.github.com/RDias17)
+[![GitHub](https://img.shields.io/badge/GitHub-RPD09-%23181717?style=for-the-badge&logo=github)](https://www.github.com/RPD09)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Dias-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafael-dias-00a116224/?locale=en_US)
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/RDias17"><img src="https://github-readme-stats.vercel.app/api?username=RDias17&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=facc15&icon_color=a855f7&bg_color=27272a&hide_border=true&show_icons=true" alt="RDias17's GitHub stats" /></a>
+<a href="http://www.github.com/RPD09"><img src="https://github-readme-stats.vercel.app/api?username=RPD09&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=facc15&icon_color=a855f7&bg_color=27272a&hide_border=true&show_icons=true" alt="RPD09's GitHub stats" /></a>
 
-<a href="https://github.com/RDias17" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDias17&langs_count=10&title_color=a855f7&text_color=facc15&icon_color=a855f7&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/RPD09" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RPD09&langs_count=10&title_color=a855f7&text_color=facc15&icon_color=a855f7&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
