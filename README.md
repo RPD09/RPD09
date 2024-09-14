@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rafael Dias
 ===================================================================================================================================
 
-IT Systems Management and Programming Technician
+Software Developer
 ------------------------------------------------
 
 Passionate programmer with a focus on Software Development. I enjoy solving problems, building cool stuff, and learning every day. Check out my projects below and let's connect!
