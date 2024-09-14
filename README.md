@@ -6,7 +6,7 @@ I'm a passionate Software Developer based in Portugal. I enjoy solving problems,
 
 - 🌍 **Location:** Portugal
 - 🧠 **Learning:** Continuously improving programming skills and exploring emerging technologies
-- ⚡ **Interests:** Programming, Game Development, and Technology
+- ⚡ **Interests:** Programming, Design, and Technology
 
 ## Skills
 
