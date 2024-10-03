@@ -5,7 +5,7 @@
 I'm a passionate Software Developer based in Portugal. I enjoy solving problems, building innovative solutions, and learning new technologies every day. Feel free to explore my projects and connect with me!
 
 - 🌍 **Location:** Portugal
-- 🧠 **Learning:** Continuously improving programming skills and exploring emerging technologies
+- 🧠 **Learning:** CTeSP in Mobile Development (Even tho its not focused only in mobile as you can see below)
 - ⚡ **Interests:** Programming, Design, and Technology
 
 ## Skills I'm Improving/Learning Through University
