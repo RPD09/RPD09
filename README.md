@@ -8,7 +8,7 @@ I'm a passionate Software Developer based in Portugal. I enjoy solving problems,
 - 🧠 **Learning:** Continuously improving programming skills and exploring emerging technologies
 - ⚡ **Interests:** Programming, Design, and Technology
 
-## Skills
+## Skills I'm Improving/Learning Through University
 
 ### Programming Languages
 
