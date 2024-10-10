@@ -55,7 +55,7 @@ I'm a passionate Software Developer based in Portugal. I enjoy solving problems,
 
 Here are some of my most notable projects so far:
 
-- **[BattleShip Game](https://github.com/RPD09/Battleship-game)**: A classic BattleShip game coded in C# WinForms.
+- **[BattleShip Game](https://github.com/RPD09/Battleship-game)**: A classic BattleShip game coded in C# WinForms using sockets.
 
 ## Learning Journey
 
