@@ -1,4 +1,4 @@
-# Hi there, I'm Rafael Dias 👋
+# 🌟 Rafael Dias | Developer 🌟
 
 ## About Me
 
