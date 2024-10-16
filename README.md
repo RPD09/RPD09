@@ -82,6 +82,6 @@ Currently, I am pursuing a Higher Professional Technical Course in Mobile Device
 ## GitHub Stats
 
 <p align="left">
+  <a href="https://github.com/RPD09" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RPD09&langs_count=11&title_color=a855f7&text_color=facc15&icon_color=a855f7&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <a href="http://www.github.com/RPD09"><img src="https://github-readme-stats.vercel.app/api?username=RPD09&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=facc15&icon_color=a855f7&bg_color=27272a&hide_border=true&show_icons=true" alt="RPD09's GitHub stats" /></a>
-<a href="https://github.com/RPD09" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RPD09&langs_count=10&title_color=a855f7&text_color=facc15&icon_color=a855f7&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
