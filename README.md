@@ -2,7 +2,8 @@
 
 ## About Me
 
-I'm a passionate Developer based in Portugal. I enjoy learning new things every day. Feel free to explore my projects and connect with me!
+I'm a full-time Local IT Trainee @ Forvia during the day and a Mobile Development Student @ ISTEC by night, based in Portugal. Passionate about technology and continuous learning, I enjoy exploring new challenges every day. Feel free to explore my projects and connect with me!
+
 
 - 🌍 **Location:** Portugal
 - 🧠 **Learning:** CTeSP in Mobile Development (Even tho its not focused only in mobile as you can see below)
