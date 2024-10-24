@@ -1,4 +1,4 @@
-# 🌟 Rafael Dias | Developer 🌟
+# 🌟 Rafael Dias | Local IT Trainee & University Student 🌟
 
 ## About Me
 
