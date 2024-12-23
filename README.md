@@ -2,24 +2,28 @@
 
 ## About Me
 
-I'm a full-time Local IT Trainee @ Forvia during the day and a Student Developer @ Alura during my free time, based in Portugal. Passionate about technology and continuous learning, I enjoy exploring new challenges every day. Feel free to explore my projects and connect with me!
+I'm a full-time Local IT Trainee @ Forvia, based in Portugal. I enjoy exploring new challenges every day. Feel free to explore my projects and connect with me!
 
 
 - 🌍 **Location:** Portugal
-- 🧠 **Learning:** Alura
+- 🧠 **Learning:** Programming
 - ⚡ **Interests:** Programming, Design, and Technology
 
-## Skills I'm Improving/Learning
+## Skills I have / I'm Learning
 
 ### Programming Languages
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-</p>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" height="36" alt="C" /></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS" /></a>
+
 
 ### Databases
 
@@ -31,6 +35,10 @@ I'm a full-time Local IT Trainee @ Forvia during the day and a Student Developer
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub" /></a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="36" height="36" alt="Unity" /></a>
+<a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" width="36" height="36" alt="Unreal Engine" /></a>
 </p>
 
 ## Projects
@@ -41,21 +49,13 @@ Here are some of my most notable projects so far:
 
 ## Learning Journey
 
-In 2023, I completed the TGPSI course at INETE, where I developed a strong foundation in programming across various languages and honed my skills in technical problem-solving, including computer hardware.
+In 2023, I successfully completed the TGPSI course at INETE, where I built a solid foundation in programming across multiple languages and enhanced my technical problem-solving abilities. I also gained valuable knowledge in computer hardware.
 
-Currently, I am learning web and mobile development online using Alura platform. At the moment I have a focus on:
-
-- **Languages:** Java, Kotlin
-- **Databases:** SQL
-- **Web Technologies:** HTML, CSS, JavaScript
-- **Frameworks & Libraries:** 'Will get to it soon'
-- **Design:** UX/UI Design, Graphic Design
-- **Cloud & DevOps:** AWS, Software Testing, Git, GitHub
-- **Cybersecurity**
+At present, I am exploring different areas to specialize in and am eager to discover the path that aligns best with my interests and strengths. I look forward to updating this section once I have a clearer direction.
 
 ## Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-dias-00a116224/?locale=en_US)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-pdias/)
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/RPD09)
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RPDevv)
 
