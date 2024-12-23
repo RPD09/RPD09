@@ -6,7 +6,7 @@ I'm a full-time Local IT Trainee @ Forvia, based in Portugal. I enjoy exploring 
 
 
 - 🌍 **Location:** Portugal
-- 🧠 **Learning:** Programming
+- 🧠 **Learning:** IoT (Internet of Things)
 - ⚡ **Interests:** Programming, Design, and Technology
 
 ## Skills I have / I'm Learning
