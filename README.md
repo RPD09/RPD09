@@ -6,7 +6,7 @@ I'm a full-time Local IT Trainee @ Forvia, based in Portugal. I enjoy exploring 
 
 
 - 🌍 **Location:** Portugal
-- 🧠 **Learning:** IoT (Internet of Things)
+- 🧠 **Learning:** Game Development
 - ⚡ **Interests:** Programming, Design, and Technology
 
 ## Skills I have / I'm Learning
@@ -57,8 +57,7 @@ At present, I am exploring different areas to specialize in and am eager to disc
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-pdias/)
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/RPD09)
-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RPDevv)
-
+- 
 ## GitHub Stats
 
 <p align="left">
