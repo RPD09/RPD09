@@ -5,7 +5,7 @@ Hi there! 👋 I'm Rafael, a **Local IT Trainee** at **Forvia**, based in **Port
 
 - 🌍 **Location:** Portugal  
 - 🧠 **Learning:** Mobile Development (Swift)  
-- ⚡ **Interests:** Programming, Design, Technology, and Game Development  
+- ⚡ **Interests:** Programming, Design, Technology, and LIFE! 🌟
 
 ---
 
