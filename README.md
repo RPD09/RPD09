@@ -53,7 +53,7 @@ As I develop my skills, I’m focusing on mastering:
 
 - **[BattleShip Game](https://github.com/RPD09/Battleship-game)**: A classic BattleShip game coded in **C# WinForms** using **sockets**.
 
-Feel free to explore more of my projects on my [GitHub](https://github.com/RPD09).
+Feel free to explore more of my projects on my [GitHub](https://github.com/RPD09?tab=repositories).
 
 ---
 
