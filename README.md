@@ -1,7 +1,7 @@
 # 🌟 Rafael Dias | Local IT Trainee & Developer 🌟
 
 ## About Me
-Hi there! 👋 I'm Rafael, a **Local IT Trainee** at **Forvia**, based in **Portugal**. I'm passionate about life and constantly exploring new challenges. I believe in lifelong learning and I'm always improving my skills. Feel free to check out my projects and let's connect!
+Hi there! 👋 I'm Rafael, a **Local IT Trainee** at **Forvia**, based in **Portugal**. I'm passionate about life and constantly exploring new challenges. I'm always trying to improve my skills. Feel free to check out my projects and let's connect!
 
 - 🌍 **Location:** Portugal  
 - 🧠 **Learning:** Mobile Development (Swift)  
