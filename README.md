@@ -4,7 +4,7 @@
 Hi there! 👋 I'm Rafael, a **Local IT Trainee** at **Forvia**, based in **Portugal**. I'm passionate about life and constantly exploring new challenges. I'm always trying to improve my skills. Feel free to check out my projects and let's connect!
 
 - 🌍 **Location:** Portugal  
-- 🧠 **Learning:** Mobile Development (Swift)  
+- 🧠 **Learning:** Mobile Development
 - ⚡ **Interests:** Programming, Design, Technology, and LIFE! 🌟
 
 ---
@@ -17,7 +17,7 @@ Hi there! 👋 I'm Rafael, a **Local IT Trainee** at **Forvia**, based in **Port
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" /></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" /></a>
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="Java" /></a>
-  <a href="https://www.swift.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="36" height="36" alt="Swift" /></a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="Kotlin" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS" /></a>
 </p>
