@@ -42,11 +42,12 @@ Hi there! 👋 I'm Rafael, a **Local IT Trainee** at **Forvia**, based in **Port
 ## 🌱 My Learning Journey
 
 ### 🎓 Education
-In **2023**, I graduated from the **TGPSI course at INETE**, where I strengthened my foundation in programming and computer hardware.  
-Currently, I'm diving into **Mobile Development (Swift)** with the goal of specializing in creating innovative and user-friendly apps.
+I graduated in 2023 from the TGPSI course at INETE, where I built a strong foundation in programming and computer hardware.
+Currently, I’m focusing on Mobile Development, and I’m learning through self-study.
 
 ### 📚 Ongoing Learning
-As I develop my skills, I’m focusing on mastering:
+As I continue to develop my skills, I’m focusing on mastering:
+- **Kotlin**
 - **Mobile Development**
 
 ---
