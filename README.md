@@ -125,7 +125,7 @@ As I continue to develop my skills, I’m focusing on mastering:
     <li>
       <div>
         <a href="https://www.linkedin.com/in/rafael-pdias/" target="_blank">
-          <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32"></a>&nbsp;
+          <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32"></a>&nbsp;&nbsp;
         <a href="#" target="_blank">
           <img src="https://github.com/user-attachments/assets/59314b80-9f73-443f-b550-ee74b5f3a987" alt="Youtube Logo" width="32"></a>
       </div>
