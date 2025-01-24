@@ -65,13 +65,23 @@
 
 <div align="center">
 
-### 🎓 Education
-I graduated in 2023 from the TGPSI course at INETE, where I built a strong foundation in programming and computer hardware.  
-Currently, I’m focusing on Mobile Development, and I’m learning through self-study.
-
-### 📚 Ongoing Learning
-As I continue to develop my skills, I’m focusing on mastering:
-
+<div id="toc" style="text-align: center;">
+  <ul align="center" style="list-style: none; padding: 0;">
+    <summary>
+      <h3>🎓 Education</h3>
+      <p>I graduated in 2023 from the TGPSI course at INETE, where I built a strong foundation in programming and computer hardware.  
+Currently, I’m focusing on Mobile Development, and I’m learning through self-study.</p>
+    </summary>
+      </ul>
+</div>
+<div id="toc" style="text-align: center;">
+  <ul align="center" style="list-style: none; padding: 0;">
+    <summary>
+      <h3>📚 Ongoing Learning</h3>
+      <p>As I continue to develop my skills, I’m focusing on mastering:</p>
+    </summary>
+      </ul>
+</div>
 <div style="display: flex; flex-direction: column; align-items: center; text-align: left; width: 100%;">
 
   <h3>🎮 Game Development</h3>
