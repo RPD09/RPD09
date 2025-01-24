@@ -1,11 +1,11 @@
-# 🌟 Rafael Dias | Local IT Trainee & Developer 🌟
+# 🌟 Rafael Dias | IT Trainee & Developer 🌟
 
 ## About Me
-Hi there! 👋 I'm Rafael, a **Local IT Trainee** at **Forvia**, based in **Portugal**. I'm passionate about life and constantly exploring new challenges. I'm always trying to improve my skills. Feel free to check out my projects and let's connect!
+Hi there! 👋 I'm Rafael, a **IT Trainee** at **Forvia**, based in **Portugal**. I'm passionate about life and constantly exploring new challenges. I'm always trying to improve my skills. Feel free to check out my projects and let's connect!
 
 - 🌍 **Location:** Portugal  
-- 🧠 **Learning:** Mobile Development
-- ⚡ **Interests:** Programming, Design, Technology, and LIFE! 🌟
+- 🧠 **Learning:** Still trying to figure out what to focus on
+- ⚡ **Interests:** Programming, Design, Gaming, and LIFE! 🌟
 
 ---
 
@@ -47,8 +47,22 @@ Currently, I’m focusing on Mobile Development, and I’m learning through self
 
 ### 📚 Ongoing Learning
 As I continue to develop my skills, I’m focusing on mastering:
-- **Kotlin**
+
+- **Game Development**
+  - C++
+  - Unreal Engine
+  - SFML
 - **Mobile Development**
+  - Kotlin
+  - Java
+- **Soft Skills**
+  - **Team Collaboration**
+  - **Problem-Solving**
+  - **Time Management**
+  - **Growth Mindset**
+  - **Adaptability**
+  - **Creativity**
+
 
 ---
 
