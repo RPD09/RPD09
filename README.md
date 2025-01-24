@@ -20,7 +20,7 @@
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> **Location:** Portugal
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px" /> **Learning:** Currently diving into game development
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20px" /> **Interests:** Programming, Design, Gaming, and LIFE!
-- <img alt="GIF" src="https://github.com/user-attachments/assets/586876ff-7d4f-4432-bc88-a406ac77961e" width="20px" /> *Ask me* about anything, like **why aliens 👽 exist.**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20px" /> *Ask me* about anything, like **why aliens 👽 exist.**
 
 <br>
 
