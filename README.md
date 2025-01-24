@@ -90,7 +90,7 @@ As I continue to develop my skills, I’m focusing on mastering:
 
 <div align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
-  <img alt="contributions snake" src="https://raw.githubusercontent.com/RPD09/RPD09/output/github-contribution-grid-snake.svg" />
+  <img alt="contributions snake" src="https://raw.githubusercontent.com/RPD09/RPD09/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </div>
 <br>
 
