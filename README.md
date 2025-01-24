@@ -63,27 +63,38 @@
       </ul>
 </div>
 
+<div align="center">
+
 ### 🎓 Education
-I graduated in 2023 from the TGPSI course at INETE, where I built a strong foundation in programming and computer hardware.
+I graduated in 2023 from the TGPSI course at INETE, where I built a strong foundation in programming and computer hardware.  
 Currently, I’m focusing on Mobile Development, and I’m learning through self-study.
 
 ### 📚 Ongoing Learning
 As I continue to develop my skills, I’m focusing on mastering:
 
-- **Game Development**
-  - C++
-  - Unreal Engine
-  - SFML
-- **Mobile Development**
-  - Kotlin
-  - Java
-- **Soft Skills**
-  - **Team Collaboration**
-  - **Problem-Solving**
-  - **Time Management**
-  - **Growth Mindset**
-  - **Adaptability**
-  - **Creativity**
+<div style="display: flex; flex-direction: column; align-items: center; text-align: left; width: 100%;">
+
+  <h3>🎮 Game Development</h3>
+  <p>- C++</p>
+  <p>- Unreal Engine</p>
+  <p>- SFML</p>
+
+  <h3>📱 Mobile Development</h3>
+  <p>- Kotlin</p>
+  <p>- Java</p>
+
+  <h3>💼 Soft Skills</h3>
+  <p>- <strong>Team Collaboration</strong></p>
+  <p>- <strong>Problem-Solving</strong></p>
+  <p>- <strong>Time Management</strong></p>
+  <p>- <strong>Growth Mindset</strong></p>
+  <p>- <strong>Adaptability</strong></p>
+  <p>- <strong>Creativity</strong></p>
+
+</div>
+
+
+</div>
 
 ---
 <br>
