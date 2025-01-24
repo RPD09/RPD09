@@ -30,7 +30,7 @@
 <div id="toc" style="text-align: center;">
   <ul align="center" style="list-style: none; padding: 0;">
     <summary>
-      <h2>🚀 Skills & Technologies</h2>
+      <h1>🚀 Skills & Technologies</h1>
     </summary>
     <li>
       <h3>💻 Programming Languages</h3>
