@@ -35,44 +35,19 @@
     <li>
       <h3>💻 Programming Languages</h3>
       <p>
-        <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" height="36" alt="C" /></a>
-        <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" /></a>
-        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" /></a>
-        <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="Java" /></a>
-        <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="Kotlin" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS" /></a>
+          <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,html,css"/>
       </p>
     </li>
     <li>
       <h3>🗄️ Databases</h3>
       <p>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="36" height="36" alt="Firebase" /></a>
+          <img src="https://skillicons.dev/icons?i=mysql,firebase"/>
       </p>
     </li>
     <li>
       <h3>🛠️ Tools & Platforms</h3>
       <p>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-        <a href="https://github.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub" /></a>
-        <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="36" height="36" alt="AndroidStudio" /></a>
-        <a href="https://unity.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="36" height="36" alt="Unity" /></a>
-        <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" width="36" height="36" alt="Unreal Engine" /></a>
+          <img src="https://skillicons.dev/icons?i=git,github,androidstudio,unrealengine,unity"/>
       </p>
     </li>
   </ul>
@@ -81,7 +56,7 @@
 ---
 
 <div id="toc" style="text-align: center;">
-  <ul align="left" style="list-style: none; padding: 0;">
+  <ul align="center" style="list-style: none; padding: 0;">
     <summary>
       <h2>🌱 My Learning Journey</h2>
     </summary>
@@ -113,8 +88,10 @@ As I continue to develop my skills, I’m focusing on mastering:
 ---
 <br>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
-
+<div align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+  <img alt="contributions snake" src="https://raw.githubusercontent.com/RPD09/RPD09/output/github-contribution-grid-snake.svg" />
+</div>
 <br>
 
 <div id="toc" style="text-align: center;">
