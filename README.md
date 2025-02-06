@@ -1,16 +1,16 @@
 <div id="toc" style="text-align: center;">
   <ul align="center" style="list-style: none; padding: 0;">
     <summary>
-      <h1><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Hello world! Rafael Dias&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h1>
+      <h1><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Hello world!</h1>
     </summary>
       </ul>
 </div>
 
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+<img align="right" alt="PC GIF" src="https://github.com/user-attachments/assets/1c06f016-95a5-427f-bad8-d5b898adc090" width="300" />
 
 <p>
   <em>
-    I'm Rafael, an <b>IT Trainee</b> at Forvia, based in <b>Portugal</b>. I'm passionate about life and constantly seeking new challenges. I’m always working to improve my skills <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">. Feel free to check out my projects, and let's connect! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
+    I'm Rafael, an <b>IT Trainee</b> at Forvia, based in <b>Portugal</b>. I'm passionate about life and constantly seeking new challenges. I’m always working to improve my skills. Feel free to check out my projects, and let's connect! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
   </em>
 </p>
 
