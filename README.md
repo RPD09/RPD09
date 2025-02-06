@@ -18,7 +18,7 @@
 <br>
 
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> **Location:** Portugal
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px" /> **Learning:** C++
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px" /> **Learning:** C++ / Sql
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20px" /> **Interests:** Programming, Design, Gaming, and LIFE!
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20px" /> *Ask me* about anything :)
 
@@ -89,9 +89,9 @@ Currently, I’m focusing on Mobile Development, and I’m learning through self
   <p>- Unreal Engine</p>
   <p>- SFML</p>
 
-  <h3>📱 Mobile Development</h3>
+  <h3>Languages</h3>
   <p>- Kotlin</p>
-  <p>- Java</p>
+  <p>- SQL</p>
 
   <h3>💼 Soft Skills</h3>
   <p>- <strong>Team Collaboration</strong></p>
