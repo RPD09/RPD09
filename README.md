@@ -85,11 +85,11 @@ Currently, I’m focusing on Mobile Development, and I’m learning through self
 <div style="display: flex; flex-direction: column; align-items: center; text-align: left; width: 100%;">
 
   <h3>🎮 Game Development</h3>
-  <p>- C++</p>
   <p>- Unreal Engine</p>
   <p>- SFML</p>
 
   <h3>Languages</h3>
+  <p>- C++</p>
   <p>- Kotlin</p>
   <p>- SQL</p>
 
