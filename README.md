@@ -70,7 +70,7 @@
     <summary>
       <h3>🎓 Education</h3>
       <p>I graduated in 2023 from the TGPSI course at INETE, where I built a strong foundation in programming and computer hardware.  
-Currently, I’m focusing on Mobile Development, and I’m learning through self-study.</p>
+Currently, I’m focusing on C++ / Game Development, and I’m learning through self-study.</p>
     </summary>
       </ul>
 </div>
