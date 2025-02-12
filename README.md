@@ -90,7 +90,6 @@ Currently, I’m focusing on C++ / Game Development, and I’m learning through 
 
   <h3>Languages</h3>
   <p>- C++</p>
-  <p>- Kotlin</p>
   <p>- SQL</p>
 
   <h3>💼 Soft Skills</h3>
