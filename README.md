@@ -1,7 +1,7 @@
 <div id="toc" style="text-align: center;">
   <ul align="center" style="list-style: none; padding: 0;">
     <summary>
-      <h1>Welcome!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h1>
+      <h1>Welcome <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h1>
     </summary>
       </ul>
 </div>
