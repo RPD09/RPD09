@@ -18,7 +18,7 @@
 <br>
 
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> **Location:** Portugal
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px" /> **Learning:** C++
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px" /> **Learning:** Game Development
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20px" /> **Interests:** Programming, Design, Gaming, Data and LIFE!
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20px" /> *Ask me* about anything :)
 
@@ -70,7 +70,7 @@
     <summary>
       <h3>🎓 Education</h3>
       <p>I graduated in 2023 from the TGPSI course at INETE, where I built a strong foundation in programming and computer hardware.  
-Currently, I’m focusing on C++ / Game Development, and I’m learning through self-study.</p>
+Currently, I’m focusing on Game Development, and I’m learning through self-study.</p>
     </summary>
       </ul>
 </div>
@@ -85,11 +85,12 @@ Currently, I’m focusing on C++ / Game Development, and I’m learning through 
 <div style="display: flex; flex-direction: column; align-items: center; text-align: left; width: 100%;">
 
   <h3>🎮 Game Development</h3>
-  <p>- Unreal Engine</p>
-  <p>- SFML</p>
+  <p>- Unity</p>
+  <p>- C#</p>
+  <p>- Design</p>
 
   <h3>Languages</h3>
-  <p>- C++</p>
+  <p>- C#</p>
   <p>- SQL</p>
 
   <h3>💼 Soft Skills</h3>
