@@ -86,8 +86,8 @@ Currently, I’m focusing on Game Development, and I’m learning through self-s
 
   <h3>🎮 Game Development</h3>
   <p>- Unity</p>
-  <p>- C#</p>
-  <p>- Design</p>
+  <p>- Aseprite</p>
+  <p>- Blender</p>
 
   <h3>Languages</h3>
   <p>- C#</p>
