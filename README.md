@@ -1,7 +1,7 @@
 <div id="toc" style="text-align: center;">
   <ul align="center" style="list-style: none; padding: 0;">
     <summary>
-      <h1>Welcome <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h1>
+      <h1>Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h1>
     </summary>
       </ul>
 </div>
@@ -17,10 +17,10 @@
 
 <br>
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> **Location:** Portugal
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px" /> **Learning:** Game Development
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20px" /> **Interests:** Programming, Design, Gaming, Data and LIFE!
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20px" /> *Ask me* about anything :)
+- **Location:** Portugal
+- **Learning:** Game Development
+- **Interests:** Programming, Design, Gaming, Data and LIFE!
+- *Ask me* about anything :)
 
 <br>
 
