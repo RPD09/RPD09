@@ -18,7 +18,7 @@
 <br>
 
 - **Location:** Portugal
-- **Learning:** Game Development
+- **Learning/Improving:** C#
 - **Interests:** Programming, Design, Gaming, Data and LIFE!
 - *Ask me* about anything :)
 
