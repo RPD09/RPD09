@@ -84,11 +84,6 @@ Currently, I’m focusing on Game Development, and I’m learning through self-s
 </div>
 <div style="display: flex; flex-direction: column; align-items: center; text-align: left; width: 100%;">
 
-  <h3>🎮 Game Development</h3>
-  <p>- Unity</p>
-  <p>- Aseprite</p>
-  <p>- Blender</p>
-
   <h3>Languages</h3>
   <p>- C#</p>
   <p>- SQL</p>
